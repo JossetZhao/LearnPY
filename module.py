@@ -7,3 +7,4 @@ num_list = ['1','2','3','4']
 # print(num_list)
 for my_num in num_list:
     print ('My ranking is %s.'%my_num)
+
